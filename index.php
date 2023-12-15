@@ -6,6 +6,7 @@ $fonts = "verdana";
 <!DOCTYPE html>
 <html lang="en">
 <head> 
+    
     <title>PHP Syntax</title>
     <style>
         body {font-family: <?php echo $fonts;?>}
